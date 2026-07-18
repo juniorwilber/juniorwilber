@@ -38,10 +38,7 @@ Mis sitios son **estáticos y ligeros** (sin costos de servidor): cargan rápido
 ¿Tienes un negocio y necesitas una página web que te consiga más clientes? Conversemos:
 
 - 📧 **Email:** [juniorwilber22@gmail.com](mailto:juniorwilber22@gmail.com)
-<!-- 👉 Reemplaza 51TUNUMERO por tu número (código de país + número, sin espacios). Ej: 51987654321 -->
-- 💬 **WhatsApp:** [Escríbeme](https://wa.me/51TUNUMERO)
-<!-- 👉 Reemplaza TU-USUARIO por el final de la URL de tu perfil de LinkedIn -->
-- 💼 **LinkedIn:** [linkedin.com/in/TU-USUARIO](https://www.linkedin.com/in/TU-USUARIO)
+- 💬 **WhatsApp:** [965 213 718](https://wa.me/51965213718)
 
 ---
 
