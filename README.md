@@ -19,10 +19,11 @@ Mis sitios son **estáticos y ligeros** (sin costos de servidor): cargan rápido
 ## 🛠️ Tecnologías
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,git,github,vscode" alt="HTML, CSS, JavaScript, Bootstrap, Git, GitHub, VS Code" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,wordpress,git,github,vscode" alt="HTML, CSS, JavaScript, Bootstrap, WordPress, Git, GitHub, VS Code" />
 </div>
 
 - Maquetación **responsive** (Mobile First) y diseño limpio
+- Sitios en **WordPress**: temas, plugins y personalización
 - **SEO** técnico: metadatos, Open Graph y datos estructurados (Schema.org)
 - **Accesibilidad**: HTML semántico, navegación por teclado y ARIA
 - Integración con **WhatsApp** y formularios validados
