@@ -36,6 +36,16 @@ Mis sitios son **estáticos y ligeros** (sin costos de servidor): cargan rápido
 | **Titan Fitness** | Gimnasio urbano con clases y planes | [Demo](https://juniorwilber.github.io/titan-fitness/) | [Repo](https://github.com/juniorwilber/titan-fitness) |
 | **Gestión Social y Desarrollo Sostenible** | Sitio informativo de un programa académico (Bootstrap 5) | [Demo](https://juniorwilber.github.io/gestion-social-sostenible/) | [Repo](https://github.com/juniorwilber/gestion-social-sostenible) |
 
+## 📈 Mi actividad en GitHub
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juniorwilber/juniorwilber/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juniorwilber/juniorwilber/output/github-snake.svg" />
+    <img alt="Animación de una serpiente recorriendo el gráfico de contribuciones" src="https://raw.githubusercontent.com/juniorwilber/juniorwilber/output/github-snake.svg" />
+  </picture>
+</div>
+
 ## 📬 Contacto
 
 ¿Tienes un negocio y necesitas una página web que te consiga más clientes? Conversemos:
